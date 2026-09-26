@@ -2,7 +2,7 @@
 
 A modern and responsive café website template built with React and Vite.
 
-![LUMIÉ Café Preview](Cuplikan%20layar%202026-09-24%20125907.png))
+![LUMIÉ Café Preview](Cuplikan%20layar%202026-09-24%20125907.png)
 
 ## Features
 
